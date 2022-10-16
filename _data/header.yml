@@ -1,0 +1,11 @@
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about.html"
+  - title: "Blog"
+    url: "/blog.html"
+  - title: "Team"
+    url: "/team.html"
+  - title: "Contact"
+    url: "/contact.html"
